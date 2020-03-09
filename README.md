@@ -10,7 +10,7 @@
 
 * `Mobile Client` Same as the Web Client but generate an APK file and uses a different protocol to manage the datas to/from the server.
 
-The purpose of this project is to interconnect services between them. Here is the list of Services available :
+The purpose of this project is to interconnect services between them. Here is the list of available services :
 
 * Github
 * YouTube
