@@ -82,7 +82,7 @@ When everything is OK, just run:
 
 ## Contributors
 
-### Project manager
+### Project Manager
 
 robin.stehle@epitech.eu
 
@@ -117,6 +117,14 @@ gabriel.pironneau@epitech.eu
 leo.kouloundjoian@epitech.eu
 
 
-![Image description](/pic/ill1.png)
+![Image description](/illustration/area_select.png)
 
-![Image description](/pic/ill2.png)
+![Image description](/illustration/area_options.png)
+
+![Image description](/illustration/area_input.png)
+
+![Image description](/illustration/navigation.png)
+
+![Image description](/illustration/my_area.png)
+
+![Image description](/illustration/login.png)
