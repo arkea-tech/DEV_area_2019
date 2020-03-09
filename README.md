@@ -2,7 +2,7 @@
 
 ## Description
 
-3rd year project in which the goal implement a software suite broken into three parts : 
+3rd year project in which the goal is to implement a software suite broken into three parts : 
 
 * `Application Server` responsible of the buisness process and the API external services call.
 
