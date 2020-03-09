@@ -33,7 +33,7 @@ The user can trigger an AREA by selecting SERVICES A for the `Action` and SERVIC
 
 You may be capable of running the project with versions older than the one listed above. Just try and see :)
 
-You might need to enable and start Docker on your machine. To do so, run the following commands:
+You may need to enable and start Docker on your machine. To do so, run the following commands:
 
 `sudo systemctl enable docker`
 
