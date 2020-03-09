@@ -114,4 +114,9 @@ gabriel.pironneau@epitech.eu
 
 ### Front End Mobile Designer
 
-leo.kouloundjoian
+leo.kouloundjoian@epitech.eu
+
+
+![Image description](/pic/ill1.png)
+
+![Image description](/pic/ill2.png)
