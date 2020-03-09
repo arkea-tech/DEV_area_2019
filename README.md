@@ -1,6 +1,29 @@
 # AREA
 
-### Requirements
+## Description
+
+3rd year project in which the goal implement a software suite broken into three parts : 
+
+* `Application Server` responsible of the buisness process and the API external services call.
+
+* `Web Client` Display, fetch and get services informations directly from the server.
+
+* `Mobile Client` Same as the Web Client but generate an APK file and uses a different protocol to manage the datas to/from the server.
+
+The purpose of this project is to interconnect services between them. Here is the list of Services available :
+
+* Github
+* YouTube
+* Timer
+* Weather
+* Reddit
+* Mail
+* Deezer
+
+The user can subscribe to Services, each services has several actions and reactions.
+The user can trigger an AREA by selecting SERVICES A for the `action` and SERVICES B for the `reaction`.
+
+## Requirements
 
 | Technology    | Version |
 |:------- | -------:|
