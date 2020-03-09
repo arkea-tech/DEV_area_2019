@@ -95,7 +95,7 @@ Runs on:
 
 Used as a mobile client. Allow users to login, create accounts, create AREA, ...
 
-## How to run Python's unittests ?
+## How to run Python's unit tests ?
 
 First, go to the `server` folder. Then, if you have not setup your virtual environement, create a new one with at least `Python3.6` then activate it.
 
