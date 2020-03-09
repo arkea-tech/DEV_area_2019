@@ -93,9 +93,12 @@ elliott.heldenbergh@epitech.eu
 ### Back End Developer
 
 elliott.heldenbergh@epitech.eu
+
 robin.stehle@epitech.eu
+
 brice.henault@epitech.eu
-leo.kouloundjoian
+
+leo.kouloundjoian@epitech.eu
 
 ### Front End Web Developer
 
