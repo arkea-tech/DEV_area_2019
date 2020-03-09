@@ -1,0 +1,21 @@
+#navigationButton {
+    background: none!important;
+    padding: 0!important;
+    border: none;
+    text-decoration: none;
+    color: #EEEBD9;
+    font-family: arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    transition: all .3s ease;
+}
+
+#navigationButton:hover {
+    cursor: pointer;
+    box-shadow:
+        1px 1px #53a7ea,
+        2px 2px #53a7ea,
+        3px 3px #53a7ea;
+    -webkit-transform: translateX(-4px);
+    transform: translateX(-4px);
+}
