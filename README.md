@@ -21,6 +21,7 @@ The purpose of this project is to interconnect services between them. Here is th
 * Deezer
 
 The user can subscribe to these Services, each services has several actions and reactions.
+
 The user can trigger an AREA by selecting SERVICES A for the `action` and SERVICES B for the `reaction`.
 
 ## Requirements
