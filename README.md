@@ -79,3 +79,36 @@ To install all mandatory packages, run `pip install -r requirements.txt` and wai
 When everything is OK, just run:
 
 `python -m unittest discover` at the root of the `server` folder and you should see tests begin ran.
+
+## Contributors
+
+### Project manager
+
+robin.stehle@epitech.eu
+
+### Back End Team Lead
+
+elliott.heldenbergh@epitech.eu
+
+### Back End Developer
+
+elliott.heldenbergh@epitech.eu
+robin.stehle@epitech.eu
+brice.henault@epitech.eu
+leo.kouloundjoian
+
+### Front End Web Developer
+
+gabriel.pironneau@epitech.eu
+
+### Front End Mobile Developer
+
+warren.o-connor@epitech.eu
+
+### Front End Web Designer
+
+gabriel.pironneau@epitech.eu
+
+### Front End Mobile Designer
+
+leo.kouloundjoian
