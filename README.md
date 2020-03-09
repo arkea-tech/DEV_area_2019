@@ -58,6 +58,10 @@ Runs on:
 
 Used as a web client. Allow users to login, create accounts, create AREA, ...
 
+To test independently:
+
+* `cd web_client && npm install && npm start`
+
 Runs on:
 
 * `localhost:8081` for local machine
